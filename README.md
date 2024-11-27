@@ -6,7 +6,7 @@ At the level of machine code, 2-D matrices are represented as flat 1-D matrices.
 ## The Results
 The results were calculated as the average runtime out of 10 runs of the program.
 
-Average Runtime of 1-D: 0.0000770 seconds
+Average Runtime of 1-D: 0.0000770 seconds <br>
 Average Runtime of 2-D: 0.0000788 seconds
 
 WINNER! The 1-D Matrix Multiplication Operation has won the speed test!
